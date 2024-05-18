@@ -3,4 +3,4 @@ langchain
 chromadb
 pytest
 sentence-transformers
-
+streamlit
