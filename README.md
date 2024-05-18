@@ -8,3 +8,4 @@
 6. Install the 'requirements.txt' file. **pip install -r requirements.txt**
 ### One mode thing and then you are good to go.
 1. Change the location of data folder in create_vectorDB.py
+### To run the program in the terminal type  **streamlit run app.py**
