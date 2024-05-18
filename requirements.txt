@@ -4,3 +4,4 @@ chromadb
 pytest
 sentence-transformers
 streamlit
+python-dotenv
