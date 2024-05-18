@@ -5,5 +5,5 @@ Setup:
 3. Create a virtual environment suppose '.venv' is the virtual environment file name --- python -m venv .venv
 4. To activate .venv run command in terminal --- .venv/Scripts/activate
 5. Install the requirements.txt file --- pip install -r requirements.txt
-One mode thing and then you are good to go.
-        * Change the location of data folder in create_vectorDB.py 
+# One mode thing and then you are good to go.
+        Change the location of data folder in create_vectorDB.py
