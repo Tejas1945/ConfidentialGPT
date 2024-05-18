@@ -7,7 +7,7 @@ from langchain_community.embeddings import OllamaEmbeddings
 
 def get_embedding_function():
     #embeddings = GPT4AllEmbeddings()
-    embeddings = OllamaEmbeddings(model="nomic-embed-text")
+    embeddings = OllamaEmbeddings(model="nomic-embed-text") #nomic-embed-text, all-minilm or any other embedding model from ollama 
     return embeddings
 """
 from sentence_transformers import SentenceTransformer
