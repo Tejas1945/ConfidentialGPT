@@ -9,3 +9,4 @@
 ### One mode thing and then you are good to go.
 1. Change the location of data folder in create_vectorDB.py
 ### To run the program in the terminal type  **streamlit run app.py**
+![image](https://github.com/Tejas1945/ConfidentialGPT/assets/128411813/73d8cf5b-d53d-4bff-b5a0-e4dae25dbd3b)
